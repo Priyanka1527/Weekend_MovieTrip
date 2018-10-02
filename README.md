@@ -20,4 +20,4 @@ ________________________________________________________________________________
 - The list of recommended movies to be displayed on the input of a movie name using the ratings and tags of movies by other users
 - The required notebook with Source code and Visualizations : **_Movie.ipynb_** under **_/notebooks_**
 
-## ----------------------------------------------------Thank You----------------------------------------------------
+## ----------------------------------------------Thank You--------------------------------------------
